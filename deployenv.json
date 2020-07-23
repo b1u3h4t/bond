@@ -249,6 +249,13 @@
                         "decimals": "18",
                         "maximum_issue_amount": "1000000000",
                         "minimum_issue_amount": "1000"
+                    },
+		    {
+                        "symbol": "BUSD",
+                        "address": "0x03897801957fb4c39ef677075fe1afca7b706507",
+                        "decimals": "18",
+                        "maximum_issue_amount": "1000000000",
+                        "minimum_issue_amount": "1000"
                     }
                 ]
             },
@@ -278,6 +285,13 @@
                         "address": "0x907c4c8c42767f6e73b86881b78433f08779279a",
                         "decimals": "18",
                         "maximum_issue_amount": "10000000000",
+                        "minimum_issue_amount": "1000"
+                    },
+		    {
+                        "symbol": "BUSD",
+                        "address": "0x03897801957fb4c39ef677075fe1afca7b706507",
+                        "decimals": "18",
+                        "maximum_issue_amount": "1000000000",
                         "minimum_issue_amount": "1000"
                     }
                 ]
@@ -309,6 +323,13 @@
                         "decimals": "18",
                         "maximum_issue_amount": "10000000",
                         "minimum_issue_amount": "1000"
+                    },
+		            {
+                        "symbol": "BUSD",
+                        "address": "0x03897801957fb4c39ef677075fe1afca7b706507",
+                        "decimals": "18",
+                        "maximum_issue_amount": "1000000000",
+                        "minimum_issue_amount": "1000"
                     }
                 ]
             },
@@ -338,6 +359,13 @@
                         "address": "0x907c4c8c42767f6e73b86881b78433f08779279a",
                         "decimals": "18",
                         "maximum_issue_amount": "100000000",
+                        "minimum_issue_amount": "1000"
+                    },
+		    {
+                        "symbol": "BUSD",
+                        "address": "0x03897801957fb4c39ef677075fe1afca7b706507",
+                        "decimals": "18",
+                        "maximum_issue_amount": "1000000000",
                         "minimum_issue_amount": "1000"
                     }
                 ]
@@ -369,6 +397,13 @@
                         "decimals": "18",
                         "maximum_issue_amount": "100000000",
                         "minimum_issue_amount": "1000"
+                    },
+		    {
+                        "symbol": "BUSD",
+                        "address": "0x03897801957fb4c39ef677075fe1afca7b706507",
+                        "decimals": "18",
+                        "maximum_issue_amount": "1000000000",
+                        "minimum_issue_amount": "1000"
                     }
                 ]
             },
@@ -398,6 +433,13 @@
                         "address": "0x907c4c8c42767f6e73b86881b78433f08779279a",
                         "decimals": "18",
                         "maximum_issue_amount": "100000000",
+                        "minimum_issue_amount": "1000"
+                    },
+		    {
+                        "symbol": "BUSD",
+                        "address": "0x03897801957fb4c39ef677075fe1afca7b706507",
+                        "decimals": "18",
+                        "maximum_issue_amount": "1000000000",
                         "minimum_issue_amount": "1000"
                     }
                 ]
@@ -429,6 +471,13 @@
                         "decimals": "18",
                         "maximum_issue_amount": "10000000000",
                         "minimum_issue_amount": "1000"
+                    },
+		    {
+                        "symbol": "BUSD",
+                        "address": "0x03897801957fb4c39ef677075fe1afca7b706507",
+                        "decimals": "18",
+                        "maximum_issue_amount": "1000000000",
+                        "minimum_issue_amount": "1000"
                     }
                 ]
             },
@@ -458,6 +507,13 @@
                         "address": "0x907c4c8c42767f6e73b86881b78433f08779279a",
                         "decimals": "18",
                         "maximum_issue_amount": "50000000",
+                        "minimum_issue_amount": "1000"
+                    },
+		    {
+                        "symbol": "BUSD",
+                        "address": "0x03897801957fb4c39ef677075fe1afca7b706507",
+                        "decimals": "18",
+                        "maximum_issue_amount": "1000000000",
                         "minimum_issue_amount": "1000"
                     }
                 ]
@@ -489,6 +545,13 @@
                         "decimals": "18",
                         "maximum_issue_amount": "10000000",
                         "minimum_issue_amount": "1000"
+                    },
+		    {
+                        "symbol": "BUSD",
+                        "address": "0x03897801957fb4c39ef677075fe1afca7b706507",
+                        "decimals": "18",
+                        "maximum_issue_amount": "1000000000",
+                        "minimum_issue_amount": "1000"
                     }
                 ]
             },
@@ -519,6 +582,309 @@
                         "decimals": "18",
                         "maximum_issue_amount": "100000000",
                         "minimum_issue_amount": "1000"
+                    },
+		    {
+                        "symbol": "BUSD",
+                        "address": "0x03897801957fb4c39ef677075fe1afca7b706507",
+                        "decimals": "18",
+                        "maximum_issue_amount": "1000000000",
+                        "minimum_issue_amount": "1000"
+                    }
+                ]
+            },
+            {
+                "symbol": "GT",
+                "address": "0xc9b682d87816e7cdd29120da8238e36eb5f35539",
+                "discount": "85",
+                "liquidate_line": "70",
+                "deposit_multiple": "500",
+                "issue_amount": [
+                    {
+                        "symbol": "USDT",
+                        "address": "0xaA7e28750d8BF25B86E06172f745B4a37B2C628f",
+                        "decimals": "6",
+                        "maximum_issue_amount": "10000000",
+                        "minimum_issue_amount": "1000"
+                    },
+                    {
+                        "symbol": "USDC",
+                        "address": "0xBc497c75630e2a824faC879E5dD2E2bB5EE9aDa5",
+                        "decimals": "6",
+                        "maximum_issue_amount": "10000000",
+                        "minimum_issue_amount": "1000"
+                    },
+                    {
+                        "symbol": "DAI",
+                        "address": "0x907c4c8c42767f6e73b86881b78433f08779279a",
+                        "decimals": "18",
+                        "maximum_issue_amount": "10000000",
+                        "minimum_issue_amount": "1000"
+                    },
+		            {
+                        "symbol": "BUSD",
+                        "address": "0x03897801957fb4c39ef677075fe1afca7b706507",
+                        "decimals": "18",
+                        "maximum_issue_amount": "1000000000",
+                        "minimum_issue_amount": "1000"
+                    }
+                ]
+            },
+            {
+                "symbol": "BNT",
+                "address": "0x0be7bfce74f06180c726ff607186ed07dcca7cdd",
+                "discount": "85",
+                "liquidate_line": "70",
+                "deposit_multiple": "500",
+                "issue_amount": [
+                    {
+                        "symbol": "USDT",
+                        "address": "0xaA7e28750d8BF25B86E06172f745B4a37B2C628f",
+                        "decimals": "6",
+                        "maximum_issue_amount": "10000000",
+                        "minimum_issue_amount": "1000"
+                    },
+                    {
+                        "symbol": "USDC",
+                        "address": "0xBc497c75630e2a824faC879E5dD2E2bB5EE9aDa5",
+                        "decimals": "6",
+                        "maximum_issue_amount": "10000000",
+                        "minimum_issue_amount": "1000"
+                    },
+                    {
+                        "symbol": "DAI",
+                        "address": "0x907c4c8c42767f6e73b86881b78433f08779279a",
+                        "decimals": "18",
+                        "maximum_issue_amount": "10000000",
+                        "minimum_issue_amount": "1000"
+                    },
+		            {
+                        "symbol": "BUSD",
+                        "address": "0x03897801957fb4c39ef677075fe1afca7b706507",
+                        "decimals": "18",
+                        "maximum_issue_amount": "1000000000",
+                        "minimum_issue_amount": "1000"
+                    }
+                ]
+            },
+            {
+                "symbol": "LEND",
+                "address": "0x02681aaecdcfc060c39c9869e6441230bb87fa72",
+                "discount": "85",
+                "liquidate_line": "70",
+                "deposit_multiple": "500",
+                "issue_amount": [
+                    {
+                        "symbol": "USDT",
+                        "address": "0xaA7e28750d8BF25B86E06172f745B4a37B2C628f",
+                        "decimals": "6",
+                        "maximum_issue_amount": "10000000",
+                        "minimum_issue_amount": "1000"
+                    },
+                    {
+                        "symbol": "USDC",
+                        "address": "0xBc497c75630e2a824faC879E5dD2E2bB5EE9aDa5",
+                        "decimals": "6",
+                        "maximum_issue_amount": "10000000",
+                        "minimum_issue_amount": "1000"
+                    },
+                    {
+                        "symbol": "DAI",
+                        "address": "0x907c4c8c42767f6e73b86881b78433f08779279a",
+                        "decimals": "18",
+                        "maximum_issue_amount": "10000000",
+                        "minimum_issue_amount": "1000"
+                    },
+		            {
+                        "symbol": "BUSD",
+                        "address": "0x03897801957fb4c39ef677075fe1afca7b706507",
+                        "decimals": "18",
+                        "maximum_issue_amount": "1000000000",
+                        "minimum_issue_amount": "1000"
+                    }
+                ]
+            },
+            {
+                "symbol": "SNX",
+                "address": "0xcbbb17d9767bd57fbf4bbf8842e916bcb3826ec1",
+                "discount": "85",
+                "liquidate_line": "70",
+                "deposit_multiple": "500",
+                "issue_amount": [
+                    {
+                        "symbol": "USDT",
+                        "address": "0xaA7e28750d8BF25B86E06172f745B4a37B2C628f",
+                        "decimals": "6",
+                        "maximum_issue_amount": "10000000",
+                        "minimum_issue_amount": "1000"
+                    },
+                    {
+                        "symbol": "USDC",
+                        "address": "0xBc497c75630e2a824faC879E5dD2E2bB5EE9aDa5",
+                        "decimals": "6",
+                        "maximum_issue_amount": "10000000",
+                        "minimum_issue_amount": "1000"
+                    },
+                    {
+                        "symbol": "DAI",
+                        "address": "0x907c4c8c42767f6e73b86881b78433f08779279a",
+                        "decimals": "18",
+                        "maximum_issue_amount": "10000000",
+                        "minimum_issue_amount": "1000"
+                    },
+		            {
+                        "symbol": "BUSD",
+                        "address": "0x03897801957fb4c39ef677075fe1afca7b706507",
+                        "decimals": "18",
+                        "maximum_issue_amount": "1000000000",
+                        "minimum_issue_amount": "1000"
+                    }
+                ]
+            },
+            {
+                "symbol": "BAND",
+                "address": "0xEc82F4Ffd50AA5c8e66Df1EBa4106F9CcaEFe9a6",
+                "discount": "85",
+                "liquidate_line": "70",
+                "deposit_multiple": "500",
+                "issue_amount": [
+                    {
+                        "symbol": "USDT",
+                        "address": "0xaA7e28750d8BF25B86E06172f745B4a37B2C628f",
+                        "decimals": "6",
+                        "maximum_issue_amount": "10000000",
+                        "minimum_issue_amount": "1000"
+                    },
+                    {
+                        "symbol": "USDC",
+                        "address": "0xBc497c75630e2a824faC879E5dD2E2bB5EE9aDa5",
+                        "decimals": "6",
+                        "maximum_issue_amount": "10000000",
+                        "minimum_issue_amount": "1000"
+                    },
+                    {
+                        "symbol": "DAI",
+                        "address": "0x907c4c8c42767f6e73b86881b78433f08779279a",
+                        "decimals": "18",
+                        "maximum_issue_amount": "10000000",
+                        "minimum_issue_amount": "1000"
+                    },
+		            {
+                        "symbol": "BUSD",
+                        "address": "0x03897801957fb4c39ef677075fe1afca7b706507",
+                        "decimals": "18",
+                        "maximum_issue_amount": "1000000000",
+                        "minimum_issue_amount": "1000"
+                    }
+                ]
+            },
+            {
+                "symbol": "HPT",
+                "address": "0x474f30606b2bc5a89cb06c7c5c204aab61405785",
+                "discount": "85",
+                "liquidate_line": "70",
+                "deposit_multiple": "500",
+                "issue_amount": [
+                    {
+                        "symbol": "USDT",
+                        "address": "0xaA7e28750d8BF25B86E06172f745B4a37B2C628f",
+                        "decimals": "6",
+                        "maximum_issue_amount": "10000000",
+                        "minimum_issue_amount": "1000"
+                    },
+                    {
+                        "symbol": "USDC",
+                        "address": "0xBc497c75630e2a824faC879E5dD2E2bB5EE9aDa5",
+                        "decimals": "6",
+                        "maximum_issue_amount": "10000000",
+                        "minimum_issue_amount": "1000"
+                    },
+                    {
+                        "symbol": "DAI",
+                        "address": "0x907c4c8c42767f6e73b86881b78433f08779279a",
+                        "decimals": "18",
+                        "maximum_issue_amount": "10000000",
+                        "minimum_issue_amount": "1000"
+                    },
+		            {
+                        "symbol": "BUSD",
+                        "address": "0x03897801957fb4c39ef677075fe1afca7b706507",
+                        "decimals": "18",
+                        "maximum_issue_amount": "1000000000",
+                        "minimum_issue_amount": "1000"
+                    }
+                ]
+            },
+            {
+                "symbol": "MX",
+                "address": "0x84aa5744990440189b4fff0d6299d8de782ea08c",
+                "discount": "85",
+                "liquidate_line": "70",
+                "deposit_multiple": "500",
+                "issue_amount": [
+                    {
+                        "symbol": "USDT",
+                        "address": "0xaA7e28750d8BF25B86E06172f745B4a37B2C628f",
+                        "decimals": "6",
+                        "maximum_issue_amount": "10000000",
+                        "minimum_issue_amount": "1000"
+                    },
+                    {
+                        "symbol": "USDC",
+                        "address": "0xBc497c75630e2a824faC879E5dD2E2bB5EE9aDa5",
+                        "decimals": "6",
+                        "maximum_issue_amount": "10000000",
+                        "minimum_issue_amount": "1000"
+                    },
+                    {
+                        "symbol": "DAI",
+                        "address": "0x907c4c8c42767f6e73b86881b78433f08779279a",
+                        "decimals": "18",
+                        "maximum_issue_amount": "10000000",
+                        "minimum_issue_amount": "1000"
+                    },
+		            {
+                        "symbol": "BUSD",
+                        "address": "0x03897801957fb4c39ef677075fe1afca7b706507",
+                        "decimals": "18",
+                        "maximum_issue_amount": "1000000000",
+                        "minimum_issue_amount": "1000"
+                    }
+                ]
+            },
+            {
+                "symbol": "BIX",
+                "address": "0xcf363e4060c6d50319b8101f38df05db38be2059",
+                "discount": "85",
+                "liquidate_line": "70",
+                "deposit_multiple": "500",
+                "issue_amount": [
+                    {
+                        "symbol": "USDT",
+                        "address": "0xaA7e28750d8BF25B86E06172f745B4a37B2C628f",
+                        "decimals": "6",
+                        "maximum_issue_amount": "10000000",
+                        "minimum_issue_amount": "1000"
+                    },
+                    {
+                        "symbol": "USDC",
+                        "address": "0xBc497c75630e2a824faC879E5dD2E2bB5EE9aDa5",
+                        "decimals": "6",
+                        "maximum_issue_amount": "10000000",
+                        "minimum_issue_amount": "1000"
+                    },
+                    {
+                        "symbol": "DAI",
+                        "address": "0x907c4c8c42767f6e73b86881b78433f08779279a",
+                        "decimals": "18",
+                        "maximum_issue_amount": "10000000",
+                        "minimum_issue_amount": "1000"
+                    },
+		            {
+                        "symbol": "BUSD",
+                        "address": "0x03897801957fb4c39ef677075fe1afca7b706507",
+                        "decimals": "18",
+                        "maximum_issue_amount": "1000000000",
+                        "minimum_issue_amount": "1000"
                     }
                 ]
             }
@@ -541,7 +907,13 @@
                 "address": "0x907c4c8c42767f6e73b86881b78433f08779279a",
                 "partial_liquidate_amount": "1000",
                 "decimals": "18"
-            }
+	    },
+	    {
+                "symbol": "BUSD",
+                "address": "0x03897801957fb4c39ef677075fe1afca7b706507",
+                "partial_liquidate_amount": "1000",
+                "decimals": "18"
+	    }
         ],
         "issue_fees": [
             "0.5"
@@ -603,9 +975,9 @@
             "0xdddd7753100621a1ECDA9882fD75A0a2b0369DfF"
         ],
         "owners": [
-            "0xfD1412eE517b9eD95E42568603178C4d4CB83E68",
-            "0x9957887A260c7db1d4cb1fA67c0ce43D9b1d72c5",
-            "0x573F2001741544163A35a35C67fFf3508d88f538"
+            "0x4abe902f0b7CE67cA7897dc5aB2F0b5c15e63F78",
+            "0x00ad986f1F4FbB6cbe1A385248D61C5F989F3713",
+            "0xA05b770842F60Cdf66DcCB06B8931d59AdAf1802"
         ],
         "ratingFeeRatio": "60",
         "deposit_tokens": [
@@ -633,6 +1005,13 @@
                     {
                         "symbol": "DAI",
                         "address": "0x6b175474e89094c44da98b954eedeac495271d0f",
+                        "decimals": "18",
+                        "maximum_issue_amount": "1000000000",
+                        "minimum_issue_amount": "1000"
+                    },
+                    {
+                        "symbol": "BUSD",
+                        "address": "0x4fabb145d64652a948d72533023f6e7a623c7c53",
                         "decimals": "18",
                         "maximum_issue_amount": "1000000000",
                         "minimum_issue_amount": "1000"
@@ -666,6 +1045,13 @@
                         "decimals": "18",
                         "maximum_issue_amount": "10000000000",
                         "minimum_issue_amount": "1000"
+                    },
+                    {
+                        "symbol": "BUSD",
+                        "address": "0x4fabb145d64652a948d72533023f6e7a623c7c53",
+                        "decimals": "18",
+                        "maximum_issue_amount": "1000000000",
+                        "minimum_issue_amount": "1000"
                     }
                 ]
             },
@@ -695,6 +1081,13 @@
                         "address": "0x6b175474e89094c44da98b954eedeac495271d0f",
                         "decimals": "18",
                         "maximum_issue_amount": "10000000",
+                        "minimum_issue_amount": "1000"
+                    },
+                    {
+                        "symbol": "BUSD",
+                        "address": "0x4fabb145d64652a948d72533023f6e7a623c7c53",
+                        "decimals": "18",
+                        "maximum_issue_amount": "1000000000",
                         "minimum_issue_amount": "1000"
                     }
                 ]
@@ -726,6 +1119,13 @@
                         "decimals": "18",
                         "maximum_issue_amount": "100000000",
                         "minimum_issue_amount": "1000"
+                    },
+                    {
+                        "symbol": "BUSD",
+                        "address": "0x4fabb145d64652a948d72533023f6e7a623c7c53",
+                        "decimals": "18",
+                        "maximum_issue_amount": "1000000000",
+                        "minimum_issue_amount": "1000"
                     }
                 ]
             },
@@ -755,6 +1155,13 @@
                         "address": "0x6b175474e89094c44da98b954eedeac495271d0f",
                         "decimals": "18",
                         "maximum_issue_amount": "100000000",
+                        "minimum_issue_amount": "1000"
+                    },
+                    {
+                        "symbol": "BUSD",
+                        "address": "0x4fabb145d64652a948d72533023f6e7a623c7c53",
+                        "decimals": "18",
+                        "maximum_issue_amount": "1000000000",
                         "minimum_issue_amount": "1000"
                     }
                 ]
@@ -786,6 +1193,13 @@
                         "decimals": "18",
                         "maximum_issue_amount": "100000000",
                         "minimum_issue_amount": "1000"
+                    },
+                    {
+                        "symbol": "BUSD",
+                        "address": "0x4fabb145d64652a948d72533023f6e7a623c7c53",
+                        "decimals": "18",
+                        "maximum_issue_amount": "1000000000",
+                        "minimum_issue_amount": "1000"
                     }
                 ]
             },
@@ -815,6 +1229,13 @@
                         "address": "0x6b175474e89094c44da98b954eedeac495271d0f",
                         "decimals": "18",
                         "maximum_issue_amount": "50000000",
+                        "minimum_issue_amount": "1000"
+                    },
+                    {
+                        "symbol": "BUSD",
+                        "address": "0x4fabb145d64652a948d72533023f6e7a623c7c53",
+                        "decimals": "18",
+                        "maximum_issue_amount": "1000000000",
                         "minimum_issue_amount": "1000"
                     }
                 ]
@@ -846,6 +1267,13 @@
                         "decimals": "18",
                         "maximum_issue_amount": "10000000000",
                         "minimum_issue_amount": "1000"
+                    },
+                    {
+                        "symbol": "BUSD",
+                        "address": "0x4fabb145d64652a948d72533023f6e7a623c7c53",
+                        "decimals": "18",
+                        "maximum_issue_amount": "1000000000",
+                        "minimum_issue_amount": "1000"
                     }
                 ]
             },
@@ -875,6 +1303,13 @@
                         "address": "0x6b175474e89094c44da98b954eedeac495271d0f",
                         "decimals": "18",
                         "maximum_issue_amount": "10000000",
+                        "minimum_issue_amount": "1000"
+                    },
+                    {
+                        "symbol": "BUSD",
+                        "address": "0x4fabb145d64652a948d72533023f6e7a623c7c53",
+                        "decimals": "18",
+                        "maximum_issue_amount": "1000000000",
                         "minimum_issue_amount": "1000"
                     }
                 ]
@@ -906,6 +1341,309 @@
                         "decimals": "18",
                         "maximum_issue_amount": "100000000",
                         "minimum_issue_amount": "1000"
+                    },
+                    {
+                        "symbol": "BUSD",
+                        "address": "0x4fabb145d64652a948d72533023f6e7a623c7c53",
+                        "decimals": "18",
+                        "maximum_issue_amount": "1000000000",
+                        "minimum_issue_amount": "1000"
+                    }
+                ]
+            },
+            {
+                "symbol": "GT",
+                "address": "0xe66747a101bff2dba3697199dcce5b743b454759",
+                "discount": "85",
+                "liquidate_line": "70",
+                "deposit_multiple": "500",
+                "issue_amount": [
+                    {
+                        "symbol": "USDT",
+                        "address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+                        "decimals": "6",
+                        "maximum_issue_amount": "10000000",
+                        "minimum_issue_amount": "1000"
+                    },
+                    {
+                        "symbol": "USDC",
+                        "address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+                        "decimals": "6",
+                        "maximum_issue_amount": "10000000",
+                        "minimum_issue_amount": "1000"
+                    },
+                    {
+                        "symbol": "DAI",
+                        "address": "0x6b175474e89094c44da98b954eedeac495271d0f",
+                        "decimals": "18",
+                        "maximum_issue_amount": "10000000",
+                        "minimum_issue_amount": "1000"
+                    },
+                    {
+                        "symbol": "BUSD",
+                        "address": "0x4fabb145d64652a948d72533023f6e7a623c7c53",
+                        "decimals": "18",
+                        "maximum_issue_amount": "1000000000",
+                        "minimum_issue_amount": "1000"
+                    }
+                ]
+            },
+            {
+                "symbol": "BNT",
+                "address": "0x1f573d6fb3f13d689ff844b4ce37794d79a7ff1c",
+                "discount": "85",
+                "liquidate_line": "70",
+                "deposit_multiple": "500",
+                "issue_amount": [
+                    {
+                        "symbol": "USDT",
+                        "address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+                        "decimals": "6",
+                        "maximum_issue_amount": "10000000",
+                        "minimum_issue_amount": "1000"
+                    },
+                    {
+                        "symbol": "USDC",
+                        "address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+                        "decimals": "6",
+                        "maximum_issue_amount": "10000000",
+                        "minimum_issue_amount": "1000"
+                    },
+                    {
+                        "symbol": "DAI",
+                        "address": "0x6b175474e89094c44da98b954eedeac495271d0f",
+                        "decimals": "18",
+                        "maximum_issue_amount": "10000000",
+                        "minimum_issue_amount": "1000"
+                    },
+                    {
+                        "symbol": "BUSD",
+                        "address": "0x4fabb145d64652a948d72533023f6e7a623c7c53",
+                        "decimals": "18",
+                        "maximum_issue_amount": "1000000000",
+                        "minimum_issue_amount": "1000"
+                    }
+                ]
+            },
+            {
+                "symbol": "LEND",
+                "address": "0x80fB784B7eD66730e8b1DBd9820aFD29931aab03",
+                "discount": "85",
+                "liquidate_line": "70",
+                "deposit_multiple": "500",
+                "issue_amount": [
+                    {
+                        "symbol": "USDT",
+                        "address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+                        "decimals": "6",
+                        "maximum_issue_amount": "10000000",
+                        "minimum_issue_amount": "1000"
+                    },
+                    {
+                        "symbol": "USDC",
+                        "address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+                        "decimals": "6",
+                        "maximum_issue_amount": "10000000",
+                        "minimum_issue_amount": "1000"
+                    },
+                    {
+                        "symbol": "DAI",
+                        "address": "0x6b175474e89094c44da98b954eedeac495271d0f",
+                        "decimals": "18",
+                        "maximum_issue_amount": "10000000",
+                        "minimum_issue_amount": "1000"
+                    },
+                    {
+                        "symbol": "BUSD",
+                        "address": "0x4fabb145d64652a948d72533023f6e7a623c7c53",
+                        "decimals": "18",
+                        "maximum_issue_amount": "1000000000",
+                        "minimum_issue_amount": "1000"
+                    }
+                ]
+            },
+            {
+                "symbol": "SNX",
+                "address": "0xc011a73ee8576fb46f5e1c5751ca3b9fe0af2a6f",
+                "discount": "85",
+                "liquidate_line": "70",
+                "deposit_multiple": "500",
+                "issue_amount": [
+                    {
+                        "symbol": "USDT",
+                        "address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+                        "decimals": "6",
+                        "maximum_issue_amount": "10000000",
+                        "minimum_issue_amount": "1000"
+                    },
+                    {
+                        "symbol": "USDC",
+                        "address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+                        "decimals": "6",
+                        "maximum_issue_amount": "10000000",
+                        "minimum_issue_amount": "1000"
+                    },
+                    {
+                        "symbol": "DAI",
+                        "address": "0x6b175474e89094c44da98b954eedeac495271d0f",
+                        "decimals": "18",
+                        "maximum_issue_amount": "10000000",
+                        "minimum_issue_amount": "1000"
+                    },
+                    {
+                        "symbol": "BUSD",
+                        "address": "0x4fabb145d64652a948d72533023f6e7a623c7c53",
+                        "decimals": "18",
+                        "maximum_issue_amount": "1000000000",
+                        "minimum_issue_amount": "1000"
+                    }
+                ]
+            },
+            {
+                "symbol": "BAND",
+                "address": "0xba11d00c5f74255f56a5e366f4f77f5a186d7f55",
+                "discount": "85",
+                "liquidate_line": "70",
+                "deposit_multiple": "500",
+                "issue_amount": [
+                    {
+                        "symbol": "USDT",
+                        "address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+                        "decimals": "6",
+                        "maximum_issue_amount": "10000000",
+                        "minimum_issue_amount": "1000"
+                    },
+                    {
+                        "symbol": "USDC",
+                        "address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+                        "decimals": "6",
+                        "maximum_issue_amount": "10000000",
+                        "minimum_issue_amount": "1000"
+                    },
+                    {
+                        "symbol": "DAI",
+                        "address": "0x6b175474e89094c44da98b954eedeac495271d0f",
+                        "decimals": "18",
+                        "maximum_issue_amount": "10000000",
+                        "minimum_issue_amount": "1000"
+                    },
+                    {
+                        "symbol": "BUSD",
+                        "address": "0x4fabb145d64652a948d72533023f6e7a623c7c53",
+                        "decimals": "18",
+                        "maximum_issue_amount": "1000000000",
+                        "minimum_issue_amount": "1000"
+                    }
+                ]
+            },
+            {
+                "symbol": "HPT",
+                "address": "0xa66Daa57432024023DB65477BA87D4E7F5f95213",
+                "discount": "85",
+                "liquidate_line": "70",
+                "deposit_multiple": "500",
+                "issue_amount": [
+                    {
+                        "symbol": "USDT",
+                        "address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+                        "decimals": "6",
+                        "maximum_issue_amount": "10000000",
+                        "minimum_issue_amount": "1000"
+                    },
+                    {
+                        "symbol": "USDC",
+                        "address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+                        "decimals": "6",
+                        "maximum_issue_amount": "10000000",
+                        "minimum_issue_amount": "1000"
+                    },
+                    {
+                        "symbol": "DAI",
+                        "address": "0x6b175474e89094c44da98b954eedeac495271d0f",
+                        "decimals": "18",
+                        "maximum_issue_amount": "10000000",
+                        "minimum_issue_amount": "1000"
+                    },
+                    {
+                        "symbol": "BUSD",
+                        "address": "0x4fabb145d64652a948d72533023f6e7a623c7c53",
+                        "decimals": "18",
+                        "maximum_issue_amount": "1000000000",
+                        "minimum_issue_amount": "1000"
+                    }
+                ]
+            },
+            {
+                "symbol": "MX",
+                "address": "0x11eef04c884e24d9b7b4760e7476d06ddf797f36",
+                "discount": "85",
+                "liquidate_line": "70",
+                "deposit_multiple": "500",
+                "issue_amount": [
+                    {
+                        "symbol": "USDT",
+                        "address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+                        "decimals": "6",
+                        "maximum_issue_amount": "10000000",
+                        "minimum_issue_amount": "1000"
+                    },
+                    {
+                        "symbol": "USDC",
+                        "address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+                        "decimals": "6",
+                        "maximum_issue_amount": "10000000",
+                        "minimum_issue_amount": "1000"
+                    },
+                    {
+                        "symbol": "DAI",
+                        "address": "0x6b175474e89094c44da98b954eedeac495271d0f",
+                        "decimals": "18",
+                        "maximum_issue_amount": "10000000",
+                        "minimum_issue_amount": "1000"
+                    },
+                    {
+                        "symbol": "BUSD",
+                        "address": "0x4fabb145d64652a948d72533023f6e7a623c7c53",
+                        "decimals": "18",
+                        "maximum_issue_amount": "1000000000",
+                        "minimum_issue_amount": "1000"
+                    }
+                ]
+            },
+            {
+                "symbol": "BIX",
+                "address": "0xb3104b4b9da82025e8b9f8fb28b3553ce2f67069",
+                "discount": "85",
+                "liquidate_line": "70",
+                "deposit_multiple": "500",
+                "issue_amount": [
+                    {
+                        "symbol": "USDT",
+                        "address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+                        "decimals": "6",
+                        "maximum_issue_amount": "10000000",
+                        "minimum_issue_amount": "1000"
+                    },
+                    {
+                        "symbol": "USDC",
+                        "address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+                        "decimals": "6",
+                        "maximum_issue_amount": "10000000",
+                        "minimum_issue_amount": "1000"
+                    },
+                    {
+                        "symbol": "DAI",
+                        "address": "0x6b175474e89094c44da98b954eedeac495271d0f",
+                        "decimals": "18",
+                        "maximum_issue_amount": "10000000",
+                        "minimum_issue_amount": "1000"
+                    },
+                    {
+                        "symbol": "BUSD",
+                        "address": "0x4fabb145d64652a948d72533023f6e7a623c7c53",
+                        "decimals": "18",
+                        "maximum_issue_amount": "1000000000",
+                        "minimum_issue_amount": "1000"
                     }
                 ]
             }
@@ -928,6 +1666,12 @@
                 "address": "0x6b175474e89094c44da98b954eedeac495271d0f",
                 "partial_liquidate_amount": "1000",
                 "decimals": "18"
+            },
+            {
+                "symbol": "BUSD",
+                "address": "0x4fabb145d64652a948d72533023f6e7a623c7c53",
+                "partial_liquidate_amount": "1000",
+                "decimals": "18"
             }
         ],
         "issue_fees": [
@@ -943,7 +1687,6 @@
             "30"
         ],
         "maturities": [
-            "1",
             "15",
             "30",
             "60",
